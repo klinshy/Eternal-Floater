@@ -1670,11 +1670,11 @@
         {
          "columns":80,
          "firstgid":1,
-         "image":"Modern Ship Tileset.png",
+         "image":"tilesets\/Modern_Ship.png",
          "imageheight":2560,
          "imagewidth":2560,
          "margin":0,
-         "name":"Modern Ship Tileset",
+         "name":"Modern_Ship",
          "spacing":0,
          "tilecount":6400,
          "tileheight":32,
@@ -4409,11 +4409,11 @@
         {
          "columns":125,
          "firstgid":6401,
-         "image":"God ray linear 45 wide.png",
+         "image":"tilesets\/God_Ray_Linear_45_Wide.png",
          "imageheight":2000,
          "imagewidth":4000,
          "margin":0,
-         "name":"God ray linear 45 wide",
+         "name":"God_Ray_Linear_45_Wide",
          "spacing":0,
          "tilecount":7750,
          "tileheight":32,
@@ -4422,7 +4422,7 @@
         {
          "columns":6,
          "firstgid":14151,
-         "image":"WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -4450,10 +4450,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "firstgid":14163,
-         "source":"Modern Ship Tileset.tsx"
         }],
  "tilewidth":32,
  "type":"map",
