@@ -48,7 +48,7 @@
          "name":"Uncer Water",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -252,7 +252,7 @@
          "name":"ANIM BG",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -660,7 +660,7 @@
          "name":"Label 2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -711,7 +711,7 @@
          "name":"FG Wall",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -762,7 +762,7 @@
          "name":"FG Object",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0

@@ -58,7 +58,7 @@
          "name":"Under Water Anim",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -973,7 +973,7 @@
          "name":"Object 2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -1034,7 +1034,7 @@
          "name":"Label",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -1095,7 +1095,7 @@
          "name":"FG Object",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -1156,7 +1156,7 @@
          "name":"FG Object 2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -1217,7 +1217,7 @@
          "name":"ANIM FG",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -1278,7 +1278,7 @@
          "name":"FG Sail",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -1339,7 +1339,7 @@
          "name":"FG Sail 2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -1400,7 +1400,7 @@
          "name":"FG Sail 3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -1461,7 +1461,7 @@
          "name":"FG Rope",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0
@@ -1522,7 +1522,7 @@
          "name":"FG godray",
          "opacity":0.68,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":75,
          "x":0,
          "y":0

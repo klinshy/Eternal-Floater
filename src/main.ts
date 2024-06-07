@@ -9,18 +9,21 @@ const LAYERS = {
         'top/fg-anim',
         'top/fg',
         'top/bg-anim',
-        'top/bg'
+        'top/bg',
+        'collisions/top'
     ],
     'middle': [
         'middle/fg',
         'middle/bg-anim',
-        'middle/bg'
+        'middle/bg',
+        'collisions/middle'
     ],
     'bottom': [
         'bottom/fg-anim',
         'bottom/fg',
         'bottom/bg-anim',
-        'bottom/bg'
+        'bottom/bg',
+        'collisions/bottom'
     ]
 
 }
@@ -36,6 +39,7 @@ WA.onInit().then(() => {
 
     // Player is at the top floor by default
     currentFloor = FLOOR_TOP
+    showTopFloor()
 
     // Event listeners for stairs
     // From bottom to middle
@@ -82,6 +86,21 @@ function transitionToFloor(fromFloor: FloorName, toFloor: FloorName): void {
             currentFloor = toFloor;
         }, 1000)
     }
+}
+
+function showTopFloor() {
+    // Hide middle and bottom layers
+    LAYERS.middle.forEach(layer => {
+        WA.room.hideLayer(layer);
+    });
+    LAYERS.bottom.forEach(layer => {
+        WA.room.hideLayer(layer);
+    });
+
+    // Show top layers
+    LAYERS.top.forEach(layer => {
+        WA.room.showLayer(layer);
+    });
 }
 
 export {};
