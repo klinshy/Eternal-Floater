@@ -1404,6 +1404,12 @@
          "imagewidth":2560,
          "margin":0,
          "name":"Modern_Ship",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Komponent Works"
+                }],
          "spacing":0,
          "tilecount":6400,
          "tileheight":32,
@@ -4188,6 +4194,12 @@
          "imagewidth":2400,
          "margin":0,
          "name":"Ship_Bottom_BG",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Komponent Works"
+                }],
          "spacing":0,
          "tilecount":3000,
          "tileheight":32,
@@ -4201,6 +4213,12 @@
          "imagewidth":2400,
          "margin":0,
          "name":"Ship_Middle_BG",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Komponent Works"
+                }],
          "spacing":0,
          "tilecount":3000,
          "tileheight":32,
@@ -4214,6 +4232,12 @@
          "imagewidth":2400,
          "margin":0,
          "name":"Ship_Top_BG",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Komponent Works"
+                }],
          "spacing":0,
          "tilecount":3750,
          "tileheight":32,
@@ -4227,6 +4251,12 @@
          "imagewidth":2400,
          "margin":0,
          "name":"Ship_Bottom_FG",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Komponent Works"
+                }],
          "spacing":0,
          "tilecount":3000,
          "tileheight":32,
@@ -4240,6 +4270,12 @@
          "imagewidth":2400,
          "margin":0,
          "name":"Ship_Middle_FG",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Komponent Works"
+                }],
          "spacing":0,
          "tilecount":3000,
          "tileheight":32,
@@ -4253,6 +4289,12 @@
          "imagewidth":2400,
          "margin":0,
          "name":"Ship_Top_FG",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Komponent Works"
+                }],
          "spacing":0,
          "tilecount":3750,
          "tileheight":32,
